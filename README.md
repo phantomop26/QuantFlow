@@ -2,7 +2,7 @@
 
 A comprehensive Python trading application that uses machine learning to predict stock prices and execute automated trading strategies.
 
-## System Status: FULLY OPERATIONAL
+## System Status: FULLY OPERATIONAL - Link: [https://quantflowtrade.streamlit.app/](url)
 
 ### What's Working
 - **Model Training**: XGBoost and Random Forest models train in ~1 second
